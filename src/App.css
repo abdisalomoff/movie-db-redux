@@ -1,0 +1,9 @@
+.card-1:hover{
+  transform: scale(1.06);
+  transition: 0.3s all;
+}
+
+.card-1:active{
+  transform: scale(0.9);
+  transition: 0.3s all;
+}
